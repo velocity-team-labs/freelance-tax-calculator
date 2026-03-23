@@ -1,0 +1,32 @@
+{
+  "name": "Freelance Tax Calculator",
+  "domain": "freelancetaxcalculator.com",
+  "tagline": "Free tax calculators for 1099 contractors and freelancers",
+  "brandColor": "#059669",
+  "calculators": [
+    {
+      "id": "quarterly-tax",
+      "name": "Quarterly Tax Estimator",
+      "path": "/quarterly-tax",
+      "description": "Estimate your quarterly self-employment tax payments"
+    },
+    {
+      "id": "self-employment-tax",
+      "name": "Self-Employment Tax Calculator",
+      "path": "/self-employment-tax",
+      "description": "Calculate your total self-employment tax obligation"
+    },
+    {
+      "id": "effective-tax-rate",
+      "name": "Effective Tax Rate Calculator",
+      "path": "/effective-tax-rate",
+      "description": "Find your effective federal and state tax rate"
+    }
+  ],
+  "navigation": [
+    { "label": "Home", "path": "/" },
+    { "label": "Quarterly Tax", "path": "/quarterly-tax" },
+    { "label": "Self-Employment Tax", "path": "/self-employment-tax" },
+    { "label": "Effective Rate", "path": "/effective-tax-rate" }
+  ]
+}
