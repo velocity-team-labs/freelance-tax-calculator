@@ -1,26 +1,27 @@
 {
-  "name": "Freelance Tax Calculator",
-  "domain": "freelancetaxcalculator.com",
-  "tagline": "Free tax calculators for 1099 contractors and freelancers",
-  "brandColor": "#059669",
+  "name": "No Tax Tears",
+  "domain": "notaxtears.com",
+  "tagline": "Tax relief for freelancers. No crying required.",
+  "brandColor": "#6366f1",
+  "brandEmoji": "😢➡️😊",
   "calculators": [
     {
       "id": "quarterly-tax",
       "name": "Quarterly Tax Estimator",
       "path": "/quarterly-tax",
-      "description": "Estimate your quarterly self-employment tax payments"
+      "description": "Know exactly what to pay each quarter. No surprises."
     },
     {
       "id": "self-employment-tax",
       "name": "Self-Employment Tax Calculator",
       "path": "/self-employment-tax",
-      "description": "Calculate your total self-employment tax obligation"
+      "description": "See the 15.3% you owe and how to reduce it."
     },
     {
       "id": "effective-tax-rate",
       "name": "Effective Tax Rate Calculator",
       "path": "/effective-tax-rate",
-      "description": "Find your effective federal and state tax rate"
+      "description": "Your real tax rate after all deductions."
     }
   ],
   "navigation": [

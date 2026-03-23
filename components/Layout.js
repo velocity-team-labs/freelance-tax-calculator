@@ -73,8 +73,8 @@ export default function Layout({
         }
 
         :root {
-          --primary-color: #2563eb;
-          --primary-hover: #1d4ed8;
+          --primary-color: #6366f1;
+          --primary-hover: #4f46e5;
           --text-color: #1f2937;
           --text-light: #6b7280;
           --bg-color: #ffffff;
